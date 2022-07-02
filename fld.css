@@ -1,0 +1,15 @@
+p{
+    color: rgb(189, 146, 146);
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: serif;
+}
+small{
+    padding: .5rem;
+    background-color: red;
+    height: 30px;
+    width: 70px;
+    display:inline;
+}
+
